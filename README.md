@@ -1,5 +1,5 @@
 # TakeNotes
-#### Video Demo:  <[URL HERE](https://youtu.be/4VTulaA2yck)>
+#### Video Demo:  <[Click Here](https://youtu.be/4VTulaA2yck)>
 #### Description:
 
 My final project, **TakeNotes**, is a web-based note-taking application developed using Python's Flask framework, alongside JavaScript, SQLite 3, HTML, and CSS for front-end interactivity and design.
